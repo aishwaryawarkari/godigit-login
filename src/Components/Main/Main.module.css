@@ -1,0 +1,47 @@
+.title {
+  color: #ffbb00;
+  text-align: center;
+}
+.subtitle {
+  text-align: center;
+  font-size: 22px;
+}
+.contact {
+  color: #0c0c0c !important;
+  font-size: 16px;
+  margin-top: -20px;
+}
+#footer {
+  background-color: #f3f3f3;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+@media (max-width: 480px) {
+  img.banner {
+    display: none !important;
+  }
+  .contact {
+    display: none !important;
+    color: #0c0c0c !important;
+    font-size: 16px;
+    margin-top: 0px;
+    text-align: center;
+  }
+  p.Main_contact__2FYcP {
+    display: none;
+  }
+  .subtitle {
+    text-align: center;
+    font-size: 20px;
+  }
+}
+
+/* p.copright {
+  position: fixed !important;
+  bottom: -30 !important;
+}
+@media (max-width: 480px) {
+  p.copright {
+    display: none;
+  }
+} */

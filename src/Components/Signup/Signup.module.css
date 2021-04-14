@@ -1,0 +1,52 @@
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.label {
+  padding: 0 10px;
+  font-size: 14px;
+}
+.terms {
+  font-size: 11px;
+  padding-left: 20px;
+  color: #999;
+  margin: -7px 0;
+}
+.contact1 {
+  color: #0c0c0c !important;
+  font-size: 16px;
+  margin-top: 0px;
+  text-align: center;
+  display: none !important;
+}
+@media (max-width: 480px) {
+  .label {
+    padding: 0 5px;
+    font-size: 12px;
+  }
+  .contact1 {
+    color: #0c0c0c !important;
+    font-size: 16px;
+    margin-top: 0px;
+    text-align: center;
+    display: block !important;
+  }
+}
+@media (max-width: 320px) {
+  .label {
+    padding: 0 5px;
+    font-size: 10px;
+  }
+  .terms {
+    font-size: 10px;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1022px) {
+  .contact1 {
+    color: #0c0c0c !important;
+    font-size: 16px;
+    margin-top: 0px;
+    text-align: center;
+    display: block !important;
+  }
+}

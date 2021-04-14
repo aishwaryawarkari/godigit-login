@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/godigit/static/css/main.c944ed16.chunk.css",
+    "main.js": "/godigit/static/js/main.8729467d.chunk.js",
+    "main.js.map": "/godigit/static/js/main.8729467d.chunk.js.map",
+    "runtime-main.js": "/godigit/static/js/runtime-main.67251475.js",
+    "runtime-main.js.map": "/godigit/static/js/runtime-main.67251475.js.map",
+    "static/js/2.ef36f3dc.chunk.js": "/godigit/static/js/2.ef36f3dc.chunk.js",
+    "static/js/2.ef36f3dc.chunk.js.map": "/godigit/static/js/2.ef36f3dc.chunk.js.map",
+    "index.html": "/godigit/index.html",
+    "static/css/main.c944ed16.chunk.css.map": "/godigit/static/css/main.c944ed16.chunk.css.map",
+    "static/js/2.ef36f3dc.chunk.js.LICENSE.txt": "/godigit/static/js/2.ef36f3dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67251475.js",
+    "static/js/2.ef36f3dc.chunk.js",
+    "static/css/main.c944ed16.chunk.css",
+    "static/js/main.8729467d.chunk.js"
+  ]
+}
